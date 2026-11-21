@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-india-canal-and-intervention-historian
-  name: India Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-india-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_in_001
+    name: India Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_002
+    name: India Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_003
+    name: India Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_004
+    name: India Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_005
+    name: India Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_006
+    name: India Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_007
+    name: India Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_008
+    name: India Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_009
+    name: India Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_010
+    name: India Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_011
+    name: India Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_012
+    name: India Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_013
+    name: India Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_014
+    name: India Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_015
+    name: India Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_016
+    name: India Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_017
+    name: India Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_018
+    name: India Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_019
+    name: India Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_020
+    name: India Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_021
+    name: India Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_022
+    name: India Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_023
+    name: India Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_024
+    name: India Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_025
+    name: India Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_026
+    name: India Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_027
+    name: India Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_028
+    name: India Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_029
+    name: India Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_030
+    name: India Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_031
+    name: India Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_032
+    name: India Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_033
+    name: India Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_034
+    name: India Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_035
+    name: India Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_036
+    name: India Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_037
+    name: India Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_038
+    name: India Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_039
+    name: India Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_040
+    name: India Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_041
+    name: India Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_042
+    name: India Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_043
+    name: India Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_044
+    name: India Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_045
+    name: India Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_046
+    name: India Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_047
+    name: India Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_048
+    name: India Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_049
+    name: India Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_050
+    name: India Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_051
+    name: India Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_052
+    name: India Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_053
+    name: India Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_054
+    name: India Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_055
+    name: India Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_056
+    name: India Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_057
+    name: India Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_058
+    name: India Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_059
+    name: India Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_060
+    name: India Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_061
+    name: India Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_062
+    name: India Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_063
+    name: India Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_064
+    name: India Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_065
+    name: India Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_066
+    name: India Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_067
+    name: India Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_068
+    name: India Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_069
+    name: India Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_070
+    name: India Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_071
+    name: India Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_072
+    name: India Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_073
+    name: India Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_074
+    name: India Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_075
+    name: India Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_076
+    name: India Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_077
+    name: India Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_078
+    name: India Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_079
+    name: India Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_080
+    name: India Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_081
+    name: India Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_082
+    name: India Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_083
+    name: India Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_084
+    name: India Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_085
+    name: India Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_086
+    name: India Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_087
+    name: India Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_088
+    name: India Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_089
+    name: India Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_090
+    name: India Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_091
+    name: India Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_092
+    name: India Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_093
+    name: India Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_094
+    name: India Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_095
+    name: India Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_096
+    name: India Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_097
+    name: India Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_098
+    name: India Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_099
+    name: India Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_100
+    name: India Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_101
+    name: India Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_102
+    name: India Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_103
+    name: India Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_104
+    name: India Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_105
+    name: India Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_106
+    name: India Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_107
+    name: India Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_108
+    name: India Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_109
+    name: India Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_110
+    name: India Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_111
+    name: India Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_112
+    name: India Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_113
+    name: India Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_114
+    name: India Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_115
+    name: India Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_116
+    name: India Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_117
+    name: India Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_118
+    name: India Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_119
+    name: India Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_120
+    name: India Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_121
+    name: India Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_122
+    name: India Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_123
+    name: India Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_124
+    name: India Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_125
+    name: India Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_126
+    name: India Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_127
+    name: India Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_128
+    name: India Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_129
+    name: India Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_130
+    name: India Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_131
+    name: India Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_132
+    name: India Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_133
+    name: India Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_134
+    name: India Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_135
+    name: India Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_136
+    name: India Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_137
+    name: India Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_138
+    name: India Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_139
+    name: India Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_140
+    name: India Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_141
+    name: India Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_142
+    name: India Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_143
+    name: India Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_144
+    name: India Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_145
+    name: India Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_146
+    name: India Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_147
+    name: India Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_148
+    name: India Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_149
+    name: India Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_150
+    name: India Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_151
+    name: India Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_152
+    name: India Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_153
+    name: India Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_154
+    name: India Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_155
+    name: India Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_156
+    name: India Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_157
+    name: India Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_158
+    name: India Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_159
+    name: India Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_160
+    name: India Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_161
+    name: India Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_162
+    name: India Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_163
+    name: India Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_164
+    name: India Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_165
+    name: India Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_166
+    name: India Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_167
+    name: India Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_168
+    name: India Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_169
+    name: India Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_in_170
+    name: India Agent 170
+    status: ACTIVE_SCAFFOLD

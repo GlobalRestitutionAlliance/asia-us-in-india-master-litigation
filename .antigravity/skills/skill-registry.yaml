@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: indian-restitution-roadmap-and-qsf-trust-execution
-  name: Indian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/indian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_in_001
+    name: India Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_002
+    name: India Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_003
+    name: India Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_004
+    name: India Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_005
+    name: India Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_006
+    name: India Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_007
+    name: India Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_008
+    name: India Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_009
+    name: India Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_010
+    name: India Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_011
+    name: India Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_012
+    name: India Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_013
+    name: India Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_014
+    name: India Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_015
+    name: India Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_016
+    name: India Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_017
+    name: India Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_018
+    name: India Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_019
+    name: India Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_020
+    name: India Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_021
+    name: India Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_022
+    name: India Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_023
+    name: India Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_024
+    name: India Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_025
+    name: India Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_026
+    name: India Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_027
+    name: India Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_028
+    name: India Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_029
+    name: India Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_030
+    name: India Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_031
+    name: India Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_032
+    name: India Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_033
+    name: India Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_034
+    name: India Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_035
+    name: India Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_036
+    name: India Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_037
+    name: India Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_038
+    name: India Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_039
+    name: India Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_040
+    name: India Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_041
+    name: India Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_042
+    name: India Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_043
+    name: India Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_044
+    name: India Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_045
+    name: India Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_046
+    name: India Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_047
+    name: India Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_048
+    name: India Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_049
+    name: India Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_050
+    name: India Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_051
+    name: India Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_052
+    name: India Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_053
+    name: India Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_054
+    name: India Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_055
+    name: India Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_056
+    name: India Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_057
+    name: India Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_058
+    name: India Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_059
+    name: India Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_060
+    name: India Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_061
+    name: India Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_062
+    name: India Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_063
+    name: India Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_064
+    name: India Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_065
+    name: India Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_066
+    name: India Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_067
+    name: India Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_068
+    name: India Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_069
+    name: India Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_070
+    name: India Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_071
+    name: India Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_072
+    name: India Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_073
+    name: India Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_074
+    name: India Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_075
+    name: India Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_076
+    name: India Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_077
+    name: India Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_078
+    name: India Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_079
+    name: India Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_080
+    name: India Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_081
+    name: India Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_082
+    name: India Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_083
+    name: India Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_084
+    name: India Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_085
+    name: India Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_086
+    name: India Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_087
+    name: India Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_088
+    name: India Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_089
+    name: India Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_090
+    name: India Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_091
+    name: India Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_092
+    name: India Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_093
+    name: India Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_094
+    name: India Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_095
+    name: India Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_096
+    name: India Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_097
+    name: India Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_098
+    name: India Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_099
+    name: India Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_100
+    name: India Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_101
+    name: India Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_102
+    name: India Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_103
+    name: India Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_104
+    name: India Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_105
+    name: India Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_106
+    name: India Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_107
+    name: India Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_108
+    name: India Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_109
+    name: India Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_110
+    name: India Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_111
+    name: India Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_112
+    name: India Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_113
+    name: India Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_114
+    name: India Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_115
+    name: India Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_116
+    name: India Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_117
+    name: India Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_118
+    name: India Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_119
+    name: India Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_120
+    name: India Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_121
+    name: India Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_122
+    name: India Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_123
+    name: India Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_124
+    name: India Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_125
+    name: India Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_126
+    name: India Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_127
+    name: India Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_128
+    name: India Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_129
+    name: India Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_130
+    name: India Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_131
+    name: India Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_132
+    name: India Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_133
+    name: India Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_134
+    name: India Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_135
+    name: India Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_136
+    name: India Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_137
+    name: India Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_138
+    name: India Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_139
+    name: India Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_140
+    name: India Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_141
+    name: India Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_142
+    name: India Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_143
+    name: India Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_144
+    name: India Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_145
+    name: India Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_146
+    name: India Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_147
+    name: India Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_148
+    name: India Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_149
+    name: India Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_150
+    name: India Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_151
+    name: India Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_152
+    name: India Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_153
+    name: India Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_154
+    name: India Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_155
+    name: India Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_156
+    name: India Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_157
+    name: India Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_158
+    name: India Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_159
+    name: India Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_160
+    name: India Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_161
+    name: India Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_162
+    name: India Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_163
+    name: India Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_164
+    name: India Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_165
+    name: India Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_166
+    name: India Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_167
+    name: India Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_168
+    name: India Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_169
+    name: India Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_170
+    name: India Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_171
+    name: India Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_172
+    name: India Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_173
+    name: India Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_174
+    name: India Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_175
+    name: India Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_176
+    name: India Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_177
+    name: India Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_178
+    name: India Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_179
+    name: India Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_180
+    name: India Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_181
+    name: India Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_182
+    name: India Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_183
+    name: India Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_184
+    name: India Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_185
+    name: India Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_186
+    name: India Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_187
+    name: India Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_188
+    name: India Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_189
+    name: India Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_190
+    name: India Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_191
+    name: India Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_192
+    name: India Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_193
+    name: India Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_194
+    name: India Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_195
+    name: India Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_196
+    name: India Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_197
+    name: India Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_198
+    name: India Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_199
+    name: India Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_200
+    name: India Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_201
+    name: India Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_202
+    name: India Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_203
+    name: India Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_204
+    name: India Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_205
+    name: India Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_206
+    name: India Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_207
+    name: India Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_208
+    name: India Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_209
+    name: India Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_210
+    name: India Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_211
+    name: India Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_212
+    name: India Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_213
+    name: India Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_214
+    name: India Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_215
+    name: India Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_216
+    name: India Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_217
+    name: India Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_218
+    name: India Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_219
+    name: India Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_220
+    name: India Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_221
+    name: India Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_222
+    name: India Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_223
+    name: India Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_224
+    name: India Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_225
+    name: India Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_226
+    name: India Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_227
+    name: India Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_228
+    name: India Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_229
+    name: India Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_230
+    name: India Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_231
+    name: India Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_232
+    name: India Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_233
+    name: India Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_234
+    name: India Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_235
+    name: India Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_236
+    name: India Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_237
+    name: India Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_238
+    name: India Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_239
+    name: India Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_240
+    name: India Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_241
+    name: India Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_242
+    name: India Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_243
+    name: India Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_244
+    name: India Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_245
+    name: India Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_246
+    name: India Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_247
+    name: India Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_248
+    name: India Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_249
+    name: India Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_250
+    name: India Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_251
+    name: India Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_in_252
+    name: India Skill 252
+    status: ACTIVE_SCAFFOLD
